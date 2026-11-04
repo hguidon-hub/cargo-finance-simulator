@@ -14,6 +14,8 @@ finance desk asks before funding the deal:
 $ python main.py --spot 65 --vol 0.30          # offline, no internet needed
 ```
 
+![Base-case dashboard](docs/dashboard.png)
+
 ## Key result (`--spot 65 --vol 0.30`: 1 Mb Brent, 3 months, 80% LTV, 16% contango assumed)
 
 | | |
